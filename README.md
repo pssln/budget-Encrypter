@@ -1,7 +1,12 @@
-with this program you 
+budget Encrypter
+made by prsa/ yungMtro
+github id: pssln
+
+
+with this program you can:
 1-encrypt a text with a  specific key file 
 2-decrypt a text with a specific key file 
-3-create a key file that with random numbers, ascii letters and symbols
+3-create a key file made with random numbers, ascii letters and symbols
 4-save, add and delete a key file at any place on your system with any name in .txt formant
 
 ##instructions##
